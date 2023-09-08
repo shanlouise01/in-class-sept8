@@ -1,0 +1,26 @@
+/* Heading Styles Begin Here */
+
+h2 {
+    color: rgb(0, 151, 38);
+    font-family: cursive;
+    font-size: 300%;
+    background-color: rgb(187, 10, 134);
+}
+h3 {
+    color: chartreuse;
+    background-color: hotpink;
+    font-family: cursive;
+
+}
+li {
+    list-style-type: circle;
+    text-decoration-line: underline;
+}
+p {
+    text-align: center;
+
+}
+
+.custards {
+    text-decoration: underline;
+}
